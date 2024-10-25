@@ -74,7 +74,6 @@
 		7D2E40DA2CCB6EDE00C8FCE9 = {
 			isa = PBXGroup;
 			children = (
-				7D2E41102CCB6EE800C8FCE9 /* New Group */,
 				7D2E40E52CCB6EDE00C8FCE9 /* Touchmit */,
 				7D2E40F62CCB6EDF00C8FCE9 /* TouchmitTests */,
 				7D2E41002CCB6EDF00C8FCE9 /* TouchmitUITests */,
@@ -126,13 +125,6 @@
 				7D2E41032CCB6EDF00C8FCE9 /* TouchmitUITestsLaunchTests.swift */,
 			);
 			path = TouchmitUITests;
-			sourceTree = "<group>";
-		};
-		7D2E41102CCB6EE800C8FCE9 /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
